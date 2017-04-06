@@ -1,3 +1,3 @@
 
-for i in range(5):
+for cislo_radku in range(5):
     print ("řadek", i)
